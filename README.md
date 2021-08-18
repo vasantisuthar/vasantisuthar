@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vasanti suthar
 - 👀 working with Javascript 
 - ✨ Creating web application using MERN stack :)
-- 🌱 Currently learning reactjs, java, python.
+- 🌱 Currently learning reactjs.
 
 -If you find my repositories helpful don't forget to give it a star ⭐ 
 
