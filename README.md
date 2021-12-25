@@ -2,6 +2,8 @@
 - 👀 working with Javascript 
 - ✨ Creating web application using MERN stack :)
 - 🌱 Currently learning reactjs,java, cloud computing.
+- Tech stack I know
+- Javascript, Java, Node.js, Express.js, MongoDB, Mongoose, MySQL, React, CSS frameworks.
 
 -If you find my repositories helpful don't forget to give it a star ⭐ 
 
