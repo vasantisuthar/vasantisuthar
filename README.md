@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vasanti suthar
 - 👀 working with Javascript 
 - ✨ Creating web application using MERN stack :)
-- 🌱 Currently learning redux, java DSA.
+- 🌱 Currently learning redux, java.
 - Tech stack I know
 - Javascript, Java, Node.js, Express.js, MongoDB, Mongoose, MySQL, React, CSS frameworks.
 
