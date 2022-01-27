@@ -28,11 +28,6 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
----
-![](https://komarev.com/ghpvc/?username=vasantisuthar&label=Visitors+Count&color=brightgreen)
 
 
 <!---
