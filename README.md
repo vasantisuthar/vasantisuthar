@@ -7,7 +7,7 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 - :seedling: I am currently learning redux, java and DevOps.
 - :earth_africa:		 I like to contribute to open source and explore github.
 - :handshake: If you want any collaboration feel free to mail me at vasantisuthar15@gmail.com.
-- :v: I'm open for opportunities.
+- :v: I'm open to opportunities.
 - :zap: Fun fact: I like to watch movies and do sketching.
 
 
