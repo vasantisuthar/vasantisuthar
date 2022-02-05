@@ -26,11 +26,15 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantisuthar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
 <!---
 
 vasantisuthar/vasantisuthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
