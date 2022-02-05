@@ -22,8 +22,6 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vasantisuthar&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantisuthar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vasantisuthar&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
