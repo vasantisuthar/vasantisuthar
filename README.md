@@ -26,7 +26,7 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
