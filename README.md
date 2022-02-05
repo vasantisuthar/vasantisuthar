@@ -26,9 +26,7 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 <!---
 vasantisuthar/vasantisuthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
