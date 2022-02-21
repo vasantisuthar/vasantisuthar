@@ -28,6 +28,25 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://vasantisuthar.hashnode.dev//how-to-build-and-structure-a-nodejs-mvc-application" title="How to build and structure a Node.js MVC application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645383342967/IeQOiDyEv.jpeg" alt="How to build and structure a Node.js MVC application" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//how-to-build-and-structure-a-nodejs-mvc-application" title="How to build and structure a Node.js MVC application"><strong>How to build and structure a Node.js MVC application</strong></a>
+<br/> Nodejs is a backend technology of JavaScript. It handles all the server-side scripting of the web applications and thus to manage the complexity of code of such applications is very important, for which MVC is used.
+MVC is an abbreviation of Model Vi... </p> <br/> <br/>
+<p align="left">
+<a href="https://vasantisuthar.hashnode.dev//explain-the-working-of-nodejs" title="Explain the working of Node.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645381196737/L9fQS8M9t.jpeg" alt="Explain the working of Node.js" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//explain-the-working-of-nodejs" title="Explain the working of Node.js"><strong>Explain the working of Node.js</strong></a>
+<br/> Node.js is an open-source backend javascript runtime environment. It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node.js runs on chrome v8 engine... </p> <br/> <br/>
+<p align="left">
+<a href="https://vasantisuthar.hashnode.dev//birth-of-react" title="React: The frontend framework"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644439991892/I03X0tEyK.jpeg" alt="React: The frontend framework" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//birth-of-react" title="React: The frontend framework"><strong>React: The frontend framework</strong></a>
+<br/> Birth of React.js
+React is a popular front-end open-source library of Javascript developed by Facebook. It is used to create user interfaces using reusable components, allows you to render the components as viewable elements in a browser, while its e... </p> <br/> <br/>
+<p align="left">
+<a href="https://vasantisuthar.hashnode.dev//what-is-repl-in-nodejs" title="What is REPL in Nodejs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639167654368/mSPr3okw_.jpeg" alt="What is REPL in Nodejs" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//what-is-repl-in-nodejs" title="What is REPL in Nodejs"><strong>What is REPL in Nodejs</strong></a>
+<br/> Nodejs is open-source javascript technology built on google chrome's v8 engine. It is a run-time environment for server-side applications in javascript.
+REPL  stands for Read Evaluation Print Loop. It is a computer environment similar to a command pr... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### ✍️Random Dev Quote
