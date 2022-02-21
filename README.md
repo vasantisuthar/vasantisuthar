@@ -25,6 +25,9 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vasantisuthar&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantisuthar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
