@@ -27,16 +27,16 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2593](https://github.com/RobinHerbots/Inputmask/issues/2593) in [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask)
-2. ❗️ Opened issue [#1](https://github.com/Youth-Avenue-2021/Java_Programs/issues/1) in [Youth-Avenue-2021/Java_Programs](https://github.com/Youth-Avenue-2021/Java_Programs)
-3. 💪 Opened PR [#1042](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1042) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#1041](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1041) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#924](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/924) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-6. 💪 Opened PR [#287](https://github.com/markodenic/awesome-tech-blogs/pull/287) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-7. ❗️ Opened issue [#171](https://github.com/Design-and-Code/support/issues/171) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
-8. 🗣 Commented on [#2237](https://github.com/nodejs/nodejs.dev/issues/2237) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
-9. ❗️ Opened issue [#21](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/21) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-10. ❗️ Opened issue [#170](https://github.com/Tech-Phantoms/community/issues/170) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+1. 💪 Opened PR [#1149](https://github.com/EddieHubCommunity/LinkFree/pull/1149) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#1062](https://github.com/EddieHubCommunity/LinkFree/issues/1062) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#2593](https://github.com/RobinHerbots/Inputmask/issues/2593) in [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask)
+4. ❗️ Opened issue [#1](https://github.com/Youth-Avenue-2021/Java_Programs/issues/1) in [Youth-Avenue-2021/Java_Programs](https://github.com/Youth-Avenue-2021/Java_Programs)
+5. 💪 Opened PR [#1042](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1042) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+6. ❗️ Opened issue [#1041](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1041) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+7. 🗣 Commented on [#924](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/924) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+8. 💪 Opened PR [#287](https://github.com/markodenic/awesome-tech-blogs/pull/287) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+9. ❗️ Opened issue [#171](https://github.com/Design-and-Code/support/issues/171) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+10. 🗣 Commented on [#2237](https://github.com/nodejs/nodejs.dev/issues/2237) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
