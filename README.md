@@ -27,16 +27,16 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-2. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+1. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
 3. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-4. ❗️ Opened issue [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-5. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-6. 💪 Opened PR [#1149](https://github.com/EddieHubCommunity/LinkFree/pull/1149) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-7. 🗣 Commented on [#1062](https://github.com/EddieHubCommunity/LinkFree/issues/1062) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-8. 🗣 Commented on [#2593](https://github.com/RobinHerbots/Inputmask/issues/2593) in [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask)
-9. ❗️ Opened issue [#1](https://github.com/Youth-Avenue-2021/Java_Programs/issues/1) in [Youth-Avenue-2021/Java_Programs](https://github.com/Youth-Avenue-2021/Java_Programs)
-10. 💪 Opened PR [#1042](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1042) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+5. ❗️ Opened issue [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+6. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+7. 💪 Opened PR [#1149](https://github.com/EddieHubCommunity/LinkFree/pull/1149) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+8. 🗣 Commented on [#1062](https://github.com/EddieHubCommunity/LinkFree/issues/1062) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+9. 🗣 Commented on [#2593](https://github.com/RobinHerbots/Inputmask/issues/2593) in [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask)
+10. ❗️ Opened issue [#1](https://github.com/Youth-Avenue-2021/Java_Programs/issues/1) in [Youth-Avenue-2021/Java_Programs](https://github.com/Youth-Avenue-2021/Java_Programs)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
