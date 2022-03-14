@@ -1,6 +1,6 @@
 # :wave: Hello <b>developers</b>, I am <b>Vasanti Suthar</b>
 
-A geek developer and builder in full stack web development and open source enthusiast. I highly work on my skills,share my knowledge and active in community work. 
+A geek developer and builder in full stack web development, open source contributor and content-writer. I highly work on my skills,and share my knowledge. 
 I work in javascript, with frontend and backend tools, java. Like to explore new tools and technologies.
 
 # 💫About Me :
