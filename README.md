@@ -29,14 +29,14 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#238](https://github.com/asyncapi/community/issues/238) in [asyncapi/community](https://github.com/asyncapi/community)
 2. 🗣 Commented on [#238](https://github.com/asyncapi/community/issues/238) in [asyncapi/community](https://github.com/asyncapi/community)
-3. 🗣 Commented on [#11](https://github.com/curiomind-e-learning/curiomind/issues/11) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
-4. ❗️ Opened issue [#29](https://github.com/curiomind-e-learning/curiomind/issues/29) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
-5. 🗣 Commented on [#15823](https://github.com/apache/shardingsphere/issues/15823) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-6. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-7. 🗣 Commented on [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-8. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+3. 🗣 Commented on [#238](https://github.com/asyncapi/community/issues/238) in [asyncapi/community](https://github.com/asyncapi/community)
+4. 🗣 Commented on [#11](https://github.com/curiomind-e-learning/curiomind/issues/11) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
+5. ❗️ Opened issue [#29](https://github.com/curiomind-e-learning/curiomind/issues/29) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
+6. 🗣 Commented on [#15823](https://github.com/apache/shardingsphere/issues/15823) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+7. 🗣 Commented on [#1043](https://github.com/EddieHubCommunity/LinkFree/issues/1043) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+8. 🗣 Commented on [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
 9. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
-10. ❗️ Opened issue [#185](https://github.com/shivshankar9/Student-portal/issues/185) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
+10. 🗣 Commented on [#180](https://github.com/shivshankar9/Student-portal/issues/180) in [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
