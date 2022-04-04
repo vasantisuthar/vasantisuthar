@@ -4,7 +4,7 @@ A geek developer and builder in full stack web development, open source contribu
 I work in javascript, with frontend and backend tools, java. Like to explore new tools and technologies.
 
 # 💫About Me :
-- :seedling: I am currently learning redux, java and DevOps.
+- :seedling: I am currently learning Next.js and DevOps.
 - :earth_africa:		 I like to contribute to open source and explore github.
 - :handshake: If you want any collaboration feel free to mail me at vasantisuthar15@gmail.com.
 - :v: I'm open to opportunities.
