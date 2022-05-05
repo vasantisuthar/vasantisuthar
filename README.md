@@ -27,16 +27,16 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#126](https://github.com/atapas/react-play/issues/126) in [atapas/react-play](https://github.com/atapas/react-play)
-2. 🗣 Commented on [#121](https://github.com/atapas/react-play/issues/121) in [atapas/react-play](https://github.com/atapas/react-play)
-3. ❗️ Opened issue [#121](https://github.com/atapas/react-play/issues/121) in [atapas/react-play](https://github.com/atapas/react-play)
-4. 💪 Opened PR [#120](https://github.com/atapas/react-play/pull/120) in [atapas/react-play](https://github.com/atapas/react-play)
-5. 💪 Opened PR [#115](https://github.com/atapas/react-play/pull/115) in [atapas/react-play](https://github.com/atapas/react-play)
-6. 🗣 Commented on [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
+1. 💪 Opened PR [#3728](https://github.com/education/GitHubGraduation-2022/pull/3728) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. ❗️ Opened issue [#126](https://github.com/atapas/react-play/issues/126) in [atapas/react-play](https://github.com/atapas/react-play)
+3. 🗣 Commented on [#121](https://github.com/atapas/react-play/issues/121) in [atapas/react-play](https://github.com/atapas/react-play)
+4. ❗️ Opened issue [#121](https://github.com/atapas/react-play/issues/121) in [atapas/react-play](https://github.com/atapas/react-play)
+5. 💪 Opened PR [#120](https://github.com/atapas/react-play/pull/120) in [atapas/react-play](https://github.com/atapas/react-play)
+6. 💪 Opened PR [#115](https://github.com/atapas/react-play/pull/115) in [atapas/react-play](https://github.com/atapas/react-play)
 7. 🗣 Commented on [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
-8. ❗️ Opened issue [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
-9. 🗣 Commented on [#222](https://github.com/Tech-Squad-Community/techsquad-community-website/issues/222) in [Tech-Squad-Community/techsquad-community-website](https://github.com/Tech-Squad-Community/techsquad-community-website)
-10. ❗️ Opened issue [#222](https://github.com/Tech-Squad-Community/techsquad-community-website/issues/222) in [Tech-Squad-Community/techsquad-community-website](https://github.com/Tech-Squad-Community/techsquad-community-website)
+8. 🗣 Commented on [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
+9. ❗️ Opened issue [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
+10. 🗣 Commented on [#222](https://github.com/Tech-Squad-Community/techsquad-community-website/issues/222) in [Tech-Squad-Community/techsquad-community-website](https://github.com/Tech-Squad-Community/techsquad-community-website)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
