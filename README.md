@@ -42,10 +42,9 @@ I work in javascript, with frontend and backend tools, java. Like to explore new
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//what-is-repl-in-nodejs" title="What is REPL in Nodejs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639167654368/mSPr3okw_.jpeg" alt="What is REPL in Nodejs" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//what-is-repl-in-nodejs" title="What is REPL in Nodejs"><strong>What is REPL in Nodejs</strong></a>
-<br/> Nodejs is open-source javascript technology built on google chrome's v8 engine. It is a run-time environment for server-side applications in javascript.
-REPL  stands for Read Evaluation Print Loop. It is a computer environment similar to a command pr... </p> <br/> <br/>
+<a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651927132245/he6m62yUF.png" alt="Awesome CSS Tools to Maximize Your Design" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><strong>Awesome CSS Tools to Maximize Your Design</strong></a>
+<br/> CSS has already proved its potential and it's being used by almost 100% of the website. There are many different types of CSS tools are available over Internet which will help you in developing something innovative according to your demand. However, ... </p> <br/> <br/>
 <p align="left">
 <a href="https://vasantisuthar.hashnode.dev//import-excel-data-to-the-mongodb-database" title="Import Excel data to the MongoDB database"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648897941700/6BdCA9Re9.png" alt="Import Excel data to the MongoDB database" width="250px" align="left" /></a>
 <a href="https://vasantisuthar.hashnode.dev//import-excel-data-to-the-mongodb-database" title="Import Excel data to the MongoDB database"><strong>Import Excel data to the MongoDB database</strong></a>
