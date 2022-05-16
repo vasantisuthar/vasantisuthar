@@ -26,16 +26,16 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
+1. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 2. 🗣 Commented on [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
-3. 🗣 Commented on [#69](https://github.com/curiomind-e-learning/curiomind/issues/69) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
-4. 💪 Opened PR [#630](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/630) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 🗣 Commented on [#241](https://github.com/Tech-Squad-Community/techsquad-community-website/issues/241) in [Tech-Squad-Community/techsquad-community-website](https://github.com/Tech-Squad-Community/techsquad-community-website)
-6. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
+3. 🗣 Commented on [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
+4. 🗣 Commented on [#69](https://github.com/curiomind-e-learning/curiomind/issues/69) in [curiomind-e-learning/curiomind](https://github.com/curiomind-e-learning/curiomind)
+5. 💪 Opened PR [#630](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/630) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+6. 🗣 Commented on [#241](https://github.com/Tech-Squad-Community/techsquad-community-website/issues/241) in [Tech-Squad-Community/techsquad-community-website](https://github.com/Tech-Squad-Community/techsquad-community-website)
 7. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
-8. 🗣 Commented on [#165](https://github.com/atapas/react-play/issues/165) in [atapas/react-play](https://github.com/atapas/react-play)
-9. ❗️ Opened issue [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
-10. 💪 Opened PR [#162](https://github.com/atapas/react-play/pull/162) in [atapas/react-play](https://github.com/atapas/react-play)
+8. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
+9. 🗣 Commented on [#165](https://github.com/atapas/react-play/issues/165) in [atapas/react-play](https://github.com/atapas/react-play)
+10. ❗️ Opened issue [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
