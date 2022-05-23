@@ -28,14 +28,14 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 2. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-3. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
-4. 🎉 Merged PR [#2](https://github.com/vasantisuthar/MongoExcelDemo/pull/2) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
-5. 💪 Opened PR [#2](https://github.com/vasantisuthar/MongoExcelDemo/pull/2) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
-6. 🎉 Merged PR [#1](https://github.com/vasantisuthar/MongoExcelDemo/pull/1) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
-7. 💪 Opened PR [#1](https://github.com/vasantisuthar/MongoExcelDemo/pull/1) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
-8. 🗣 Commented on [#183](https://github.com/atapas/react-play/issues/183) in [atapas/react-play](https://github.com/atapas/react-play)
-9. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-10. 🗣 Commented on [#54](https://github.com/hash-define-organization/Hash-Whiteboard/issues/54) in [hash-define-organization/Hash-Whiteboard](https://github.com/hash-define-organization/Hash-Whiteboard)
+3. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+4. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
+5. 🎉 Merged PR [#2](https://github.com/vasantisuthar/MongoExcelDemo/pull/2) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
+6. 💪 Opened PR [#2](https://github.com/vasantisuthar/MongoExcelDemo/pull/2) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
+7. 🎉 Merged PR [#1](https://github.com/vasantisuthar/MongoExcelDemo/pull/1) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
+8. 💪 Opened PR [#1](https://github.com/vasantisuthar/MongoExcelDemo/pull/1) in [vasantisuthar/MongoExcelDemo](https://github.com/vasantisuthar/MongoExcelDemo)
+9. 🗣 Commented on [#183](https://github.com/atapas/react-play/issues/183) in [atapas/react-play](https://github.com/atapas/react-play)
+10. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
