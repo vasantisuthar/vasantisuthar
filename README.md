@@ -26,15 +26,15 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#279](https://github.com/reactplay/react-play/issues/279) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 💪 Opened PR [#252](https://github.com/reactplay/react-play/pull/252) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. ❗️ Opened issue [#240](https://github.com/atapas/react-play/issues/240) in [atapas/react-play](https://github.com/atapas/react-play)
-6. ❗️ Closed issue [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
-7. 🗣 Commented on [#235](https://github.com/atapas/react-play/issues/235) in [atapas/react-play](https://github.com/atapas/react-play)
-8. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
-9. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+1. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Opened issue [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#279](https://github.com/reactplay/react-play/issues/279) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 💪 Opened PR [#252](https://github.com/reactplay/react-play/pull/252) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. ❗️ Opened issue [#240](https://github.com/atapas/react-play/issues/240) in [atapas/react-play](https://github.com/atapas/react-play)
+7. ❗️ Closed issue [#97](https://github.com/atapas/react-play/issues/97) in [atapas/react-play](https://github.com/atapas/react-play)
+8. 🗣 Commented on [#235](https://github.com/atapas/react-play/issues/235) in [atapas/react-play](https://github.com/atapas/react-play)
+9. 🗣 Commented on [#162](https://github.com/atapas/react-play/issues/162) in [atapas/react-play](https://github.com/atapas/react-play)
 10. 🗣 Commented on [#799](https://github.com/HITK-TECH-Community/Community-Website/issues/799) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
