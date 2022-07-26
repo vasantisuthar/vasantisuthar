@@ -41,6 +41,11 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658785269385/zBi7EkIIK.png" alt="Software development life cycles" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><strong>Software development life cycles</strong></a>
+<br/> What is SDLC?
+Software Development Life Cycle is a process followed for a software project within an organization. It contains a detailed plan describing how to develop, maintain, replace and alter specific software. Also, this life cycle defines a m... </p> <br/> <br/>
+<p align="left">
 <a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651927132245/he6m62yUF.png" alt="Awesome CSS Tools to Maximize Your Design" width="250px" align="left" /></a>
 <a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><strong>Awesome CSS Tools to Maximize Your Design</strong></a>
 <br/> CSS has already proved its potential and it's being used by almost 100% of the website. There are many different types of CSS tools are available over Internet which will help you in developing something innovative according to your demand. However, ... </p> <br/> <br/>
@@ -53,11 +58,6 @@ In this article, we will look into how excel data can be imported to the Mo... <
 <a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645879473530/HqG8taCwQ.png" alt="Evolution of JavaScript and its versions" width="250px" align="left" /></a>
 <a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><strong>Evolution of JavaScript and its versions</strong></a>
 <br/> JavaScript is a popular scripting language used for various purposes from creating static websites to dynamic web applications, desktop and mobile native applications, this increasingly growing language has its amazing history of how it was evolved a... </p> <br/> <br/>
-<p align="left">
-<a href="https://vasantisuthar.hashnode.dev//how-to-build-and-structure-a-nodejs-mvc-application" title="How to build and structure a Node.js MVC application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645383342967/IeQOiDyEv.jpeg" alt="How to build and structure a Node.js MVC application" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//how-to-build-and-structure-a-nodejs-mvc-application" title="How to build and structure a Node.js MVC application"><strong>How to build and structure a Node.js MVC application</strong></a>
-<br/> Nodejs is a backend technology of JavaScript. It handles all the server-side scripting of the web applications and thus to manage the complexity of code of such applications is very important, for which MVC is used.
-MVC is an abbreviation of Model Vi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
