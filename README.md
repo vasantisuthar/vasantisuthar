@@ -41,6 +41,10 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="MongoDB schema design best practices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659197021167/JsHtFr2T_.jpeg" alt="MongoDB schema design best practices" width="250px" align="left" /></a>
+<a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="MongoDB schema design best practices"><strong>MongoDB schema design best practices</strong></a>
+<br/> MongoDB has been a popular database among all NoSQL databases used these days for storing big data. Unlike relational databases, it may not provide techniques for defining good relationships but it provides flexibility in defining the schema of our c... </p> <br/> <br/>
+<p align="left">
 <a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658785269385/zBi7EkIIK.png" alt="Software development life cycles" width="250px" align="left" /></a>
 <a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><strong>Software development life cycles</strong></a>
 <br/> What is SDLC?
@@ -54,10 +58,6 @@ Software Development Life Cycle is a process followed for a software project wit
 <a href="https://vasantisuthar.hashnode.dev//import-excel-data-to-the-mongodb-database" title="Import Excel data to the MongoDB database"><strong>Import Excel data to the MongoDB database</strong></a>
 <br/> MongoDB is an open-source NoSQL document-oriented database, that stores the data in JSON format. It is a distributed database that is designed to store a large scale of data.
 In this article, we will look into how excel data can be imported to the Mo... </p> <br/> <br/>
-<p align="left">
-<a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645879473530/HqG8taCwQ.png" alt="Evolution of JavaScript and its versions" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><strong>Evolution of JavaScript and its versions</strong></a>
-<br/> JavaScript is a popular scripting language used for various purposes from creating static websites to dynamic web applications, desktop and mobile native applications, this increasingly growing language has its amazing history of how it was evolved a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
