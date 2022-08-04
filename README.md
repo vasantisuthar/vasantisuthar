@@ -26,16 +26,16 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/commclassroom/roadmaps/issues/45) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
-2. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Opened issue [#45](https://github.com/commclassroom/roadmaps/issues/45) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
 3. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 💪 Opened PR [#316](https://github.com/reactplay/react-play/pull/316) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. ❗️ Opened issue [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#279](https://github.com/reactplay/react-play/issues/279) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 💪 Opened PR [#252](https://github.com/reactplay/react-play/pull/252) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 💪 Opened PR [#316](https://github.com/reactplay/react-play/pull/316) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. ❗️ Opened issue [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🗣 Commented on [#279](https://github.com/reactplay/react-play/issues/279) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Latest Blog Posts 👇
