@@ -45,11 +45,6 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="MongoDB schema design best practices"><strong>MongoDB schema design best practices</strong></a>
 <br/> MongoDB has been a popular database among all NoSQL databases used these days for storing big data. Unlike relational databases, it may not provide techniques for defining good relationships but it provides flexibility in defining the schema of our c... </p> <br/> <br/>
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658785269385/zBi7EkIIK.png" alt="Software development life cycles" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//software-development-life-cycles" title="Software development life cycles"><strong>Software development life cycles</strong></a>
-<br/> What is SDLC?
-Software Development Life Cycle is a process followed for a software project within an organization. It contains a detailed plan describing how to develop, maintain, replace and alter specific software. Also, this life cycle defines a m... </p> <br/> <br/>
-<p align="left">
 <a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651927132245/he6m62yUF.png" alt="Awesome CSS Tools to Maximize Your Design" width="250px" align="left" /></a>
 <a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><strong>Awesome CSS Tools to Maximize Your Design</strong></a>
 <br/> CSS has already proved its potential and it's being used by almost 100% of the website. There are many different types of CSS tools are available over Internet which will help you in developing something innovative according to your demand. However, ... </p> <br/> <br/>
